@@ -6,7 +6,7 @@ const Login = () => {
 
 
     return (
-        <p>hello login</p>
+        <p>goodbyelo login</p>
     )
 
 
